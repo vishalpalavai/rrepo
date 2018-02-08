@@ -1,3 +1,3 @@
 # rrepo
 # rrepo
-This readme is updating from lrepo
+This readme is coming from lrepo
